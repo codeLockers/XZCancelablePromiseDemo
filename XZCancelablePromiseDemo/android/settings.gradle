@@ -1,0 +1,3 @@
+rootProject.name = 'XZCancelablePromiseDemo'
+
+include ':app'
